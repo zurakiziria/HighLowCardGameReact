@@ -1,0 +1,1 @@
+export const GET_HIERARCHY = 'GET_HIERARCHY';

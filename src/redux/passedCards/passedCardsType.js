@@ -1,0 +1,1 @@
+export const GET_PASSEDCARDS = 'GET_PASSEDCARDS';

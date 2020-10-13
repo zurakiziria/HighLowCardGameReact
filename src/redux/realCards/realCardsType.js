@@ -1,0 +1,1 @@
+export const GET_REALCARDS = 'GET_REALCARDS';

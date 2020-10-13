@@ -1,0 +1,44 @@
+.main_div {
+  margin: auto;
+  position: relative;
+}
+
+.msg {
+  text-align: center;
+  position: absolute;
+  left: 375px;
+  top: 265px;
+  width: 200px;
+  display: flex;
+  color: #fff;
+}
+
+.controllers {
+  position: absolute;
+  bottom: 0px;
+  right: 10px;
+  display: flex;
+  color: #fff;
+}
+
+.controlers_in{
+  margin-left: 5px;
+}
+
+.controllers_div{
+  width: 100%;
+  margin: 5px;
+}
+
+.inputForms{
+  width: 90%;
+  border: 1px solid #000;
+}
+
+.prev_cards{
+  display: flex;
+}
+
+.prev_cards_in{
+  margin-left: 5px;
+}
